@@ -1,9 +1,9 @@
-// Element's selection
+// Elements selection
 const userChoiceDisplay = document.getElementById("user-choice");
 const computerChoiceDisplay = document.getElementById("computer-choice");
 const resultDisplay = document.getElementById("result");
 
-// Button's selection 
+// Buttons selection 
 const possibleChoices = document.querySelectorAll("button");
 
 
