@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+
+h2 {
+    margin: 70px;
+}
+
+button {
+    margin-right: 30px;
+    margin-left: 30px;
+    height: 40px;
+    width: 70px;
+    font-weight: bold;
+}
