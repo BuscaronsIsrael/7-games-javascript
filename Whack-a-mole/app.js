@@ -23,7 +23,6 @@ squares.forEach(square => {
         if (square.id === hitPosition) {
             result++;
             scoreDisplay.innerHTML = result;
-            hitPosition = null;
         }
     })
 })
