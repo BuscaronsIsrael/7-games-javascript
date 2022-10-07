@@ -56,6 +56,7 @@ function countDown() {
          result = 0;
          scoreDisplay.innerHTML = result;
          currentTime = 10;
+         timeLeftDisplay.innerHTML = currentTime
     }
 }
 
